@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<items>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Kidnap - Secuestrar</title>
+<fanart>https://pics.filmaffinity.com/Mujer_en_llamas-414176717-large.jpg</fanart>
+<genre>Thriller | Acción | Secuestros / Desapariciones</genre>
+<info>Una madre no se detendrá ante nada para intentar recuperar a su hijo cuando este es secuestrado delante de ella en un parque de atracciones.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/Mujer_en_llamas-966835103-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rywbh11ocnge'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mariposa Negra</title>
+<fanart>https://s3.amazonaws.com/pelisfox/gallery/original/b03a7c415d0252653e77d25a241ecd74.jpg</fanart>
+<genre>Thriller | Remake | Secuestros / Desapariciones</genre>
+<info>Paul (Antonio Banderas) es un escritor en horas bajas que un día recoge a un vagabundo (Jonathan Rhys Meyers) y le ofrece quedarse con él en su apartada cabaña de madera. Pero el extraño decide tomar a Paul como rehén y lo obliga a escribir todos sus secretos íntimos, enterrados durante años... Remake del thriller francés &quot;Papillon Noir&quot; de Christian Faure.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/black_butterfly-144647381-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKO2EMTUID&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Muerte Misteriosa  </title>
+<fanart>https://pics.filmaffinity.com/Muerte_misteriosa-923362418-large.jpg</fanart>
+<genre>Thriller | Intriga | Policíaco | Crimen | Cine independiente USA</genre>
+<info>Una agente del FBI se alía con un veterano rastreador local para investigar un asesinato ocurrido en una reserva de nativos americanos... Ópera prima del guionista de &quot;Sicario&quot; y &quot;Comanchería&quot;.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/wind_river-870274639-large.jpg</thumbnail>
+<urlsolve>https://rapidvideo.com/v/FKSSLC5JH0</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Landline  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmU5YmY2OGMtMGUwMS00Y2M3LTkyODktZWJlODc2ZTQ3Y2MyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjEwNjUzNzU@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<genre>Comedia | Años 90 | Adolescencia</genre>
+<info>Una adolescente que vive con su hermana y sus padres en Manhattan durante la década de los noventa descubre que su padre está teniendo un romance.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/landline-361724256-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xx7j27xjf36o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Una Historia De Venganza   </title>
+<fanart>https://image.tmdb.org/t/p/w1000/9HcXzYUnnwyFu9WSEM2IOxd2VhC.jpg</fanart>
+<genre>Drama | Thriller | Venganza | Aviones | Basado en hechos reales</genre>
+<info>Un padre de familia (Arnold Schwarzenegger) buscará venganza contra el controlador del aeropuerto (Scoot McNairy) responsable del fallecimiento de su mujer e hija. Film basado en hechos reales, en los que en julio de 2002 un avión se estrelló dejando numerosas víctimas mortales.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/aftermath-815196730-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7z76x6b4eiv5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Atomic Blonde [HD] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjc1NDJiZmEtYTM0NC00MGQ4LWI3NWYtODMxMzc1OTZmMjY5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg</fanart>
+<genre>Acción | Thriller | Espionaje | Guerra Fría | Años 80 | Cómic</genre>
+<info>Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín oriental. Lorraine no se detendrá ante nada para conseguir dar con esa lista, enfrentándose a varios asesinos y sumergiéndose en un mundo en el que nadie parece ser quien dice ser.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/atomic_blonde-338199948-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKU1SAHO3C</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Barry Seal: Solo En América  </title>
+<fanart>https://pics.filmaffinity.com/Barry_Seal_Solo_en_Am_rica-856307251-large.jpg</fanart>
+<genre>Thriller | Acción | Comedia | Biográfico | Años 70 | Años 80 | Crimen | Drogas | Espionaje</genre>
+<info>Basada en la vida real de Barry Seal, un expiloto que se convirtió en un importante narcotraficante en el cartel de Medellín y que acabó siendo reclutado por la CIA y el departamento de inteligencia de la DEA. 
+</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/american_made-694891692-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h9fxio9bpu55'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Meyerowitz: La Familia No Se Elige  </title>
+<fanart>https://pics.filmaffinity.com/Los_Meyerowitz_La_familia_no_se_elige_Historias_nuevas_y_selectas-737092011-large.jpg</fanart>
+<genre>Comedia | Drama | Comedia dramática | Familia</genre>
+<info>Los tres hijos, ya adultos, de un arisco artista neoyorquino se enfrentan a la difícil relación que tienen con su padre y entre ellos. La familia tenía a sus miembros separados, pero se reúnen para un evento que celebra la obra artística de su padre. Allí surgirán conflictos familiares.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_meyerowitz_stories-137233913-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5kbb6c1gx0i8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nannys nightmare (La ninera perfecta)</title>
+<fanart>https://i.ytimg.com/vi/jJ0HPSouU6M/hqdefault.jpg</fanart>
+<genre>Comedia</genre>
+<info>Summer es diseñadora de interiores, pero no duda en aceptar la oferta de una pareja para trabajar como niñera de su hija Sophie. La niña muestra un comportamiento que llama su atención</info>
+<date>2017</date>
+<thumbnail>http://s.ecrater.com/stores/283985/591927162dfb7_283985n.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJNARXPZHN&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Annabelle 2: La Creación  </title>
+<fanart>https://pics.filmaffinity.com/Annabelle_2_La_creaci_n-198906112-large.jpg</fanart>
+<genre>Terror | Sobrenatural | Muñecos | Precuela</genre>
+<info>Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una enfermera y un grupo de chicas tratando de convertir su casa en un cálido orfanato. Sin embargo, los nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de &quot;Annabelle&quot; (2014).</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/annabelle_creation-692576203-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FJNAMF9W8H&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]My Little Pony: La Película [CAM] </title>
+<fanart>https://pics.filmaffinity.com/my_little_pony_the_movie-280374488-large.jpg</fanart>
+<genre>Animación | Aventuras | Comedia | Fantástico | Infantil | Amistad | Caballos</genre>
+<info>Cuando una fuerza oscura amenaza a Ponyville y el Mane 6, todos se van en un viaje hasta el final de equestria para salvar a su querida casa, y se encuentran con nuevos amigos y peligrosos desafíos a lo largo del camino.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/my_little_pony_the_movie-280374488-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FK91T2VHYH&q=360p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Torre Oscura  </title>
+<fanart>https://pics.filmaffinity.com/La_Torre_Oscura-981048888-large.jpg</fanart>
+<genre>Fantástico | Western | Ciencia ficción | Western futurista</genre>
+<info>En un mundo extrañamente parecido al nuestro un cowboy de nombre Roland Deschain de Gilead persigue a su eterno enemigo, &quot;el hombre de negro&quot;. Roland, solitario, quizá maldito, anda sin descanso a través de un paisaje triste y abandonado. Conoce a Jake, un chico de Nueva York pero venido de otro tiempo, y ambos unen sus destinos. Ante ellos están las montañas. Y mucho más allá, la Torre Oscura... Adaptación de la saga literaria de Stephen King.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_dark_tower-790489565-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FKPA0YSDNN&q=1080p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Me Gusta, Pero Me Asusta [CAM] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGY3NTJmYWMtZDBkMy00MTc4LTgwNWQtMjc2NTgwNjM3MTI4L2ltYWdlXkEyXkFqcGdeQXVyNjgzNzQ2MjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<genre>Comedia | Romance | Comedia romántica | Familia</genre>
+<info>Dicen que todos los mexicanos somos iguales, pero eso… está por verse. Brayan Rodríguez (Alejandro Speitzer), descendiente de una de las familias más “conocidas” de Sinaloa, es el elegido para conquistar la gran ciudad expandiendo los negocios secretos de su familia. Claudia (Minnie West) es la clásica soñadora confundida, gozando un año sabático mientras “encuentra su vocación”; todo a expensas de su padre. ¿Imaginas qué podría pasar si estos dos mundos se encontraran? Personajes extravagantes, divertidos y llenos de contrastes desencadenarán una historia en donde más de uno nos identificaremos.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/me_gusta_pero_me_asusta-364594343-large.jpg</thumbnail>
+<urlsolve>https://vidoza.net/zm7qxgq8sqdc.html</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Gran Fuga  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjUwNGVhMmMtZDdjYi00YzY4LThhMWItY2IwMzY4ZjVkZjZkXkEyXkFqcGdeQXVyMjIxOTk4Mzg@._V1_SY1000_CR0,0,1436,1000_AL_.jpg</fanart>
+<genre>Acción | Thriller | Coches / Automovilismo</genre>
+<info>Dos hermanos especializados en el robo de automóviles viajan al sur de Francia para probar nuevos horizontes.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/overdrive-331863894-large.jpg</thumbnail>
+<urlsolve>http://gamovideo.com/hiueozw7qngv</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR deepskyblue]Siguiente[/COLOR]</title>
+<link>Http://x.o</link>
+<externallink></externallink>
+<thumbnail>http://2.bp.blogspot.com/-i4YLlSBG_vA/WfvMHwVl0FI/AAAAAAAACJU/gvunHl1b6-4UxdnB8wKwvTaWVnNMtgtIgCK4BGAYYCw/s1600/sigiente.jpg</thumbnail>
+<fanart></fanart>
+<SetViewMode>53</SetViewMode>
+</item>
