@@ -1,1 +1,313 @@
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Thor: Ragnarok [CAM] </title>
+<fanart>https://pics.filmaffinity.com/Thor_Ragnarok-166911107-large.jpg</fanart>
+<genre>Fantástico | Acción | Aventuras | Superhéroes | Cómic | Marvel Comics | Secuela | 3-D</genre>
+<info>Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/thor_ragnarok-115636540-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rw2rjwi8vf7d'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jungla</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OWMzZWQtZDk5OC00NzhkLThlYmMtMjc0MTkxMGMwMTAyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
+<genre>Acción | Aventuras | Drama | Thriller</genre>
+<info>Un grupo de amigos, haciendo senderismo, se adentra en la selva de Bolivia con un guía fraudulento.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/jungle-569337099-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zombiology: Enjoy Yourself Tonight  </title>
+<fanart>https://cdn3.i-scmp.com/sites/default/files/styles/980x551/public/images/methode/2017/06/28/f88449e0-5bc3-11e7-98d7-232f56a99798_1280x720_181944.jpg?itok=f4CLcUDH</fanart>
+<genre>Acción | Comedia | Zombis</genre>
+<info>Lone y Yeung, dos geeks, ven cómo sus fantasías de cómic se vuelven reales y provocan un apocalipsis zombie en Hong Kong. Este peculiar dúo tendrá que ingeniárselas para sacar a su familia de esta terrible crisis, con la ayuda de unas armas caseras.</info>
+<date>2017</date>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzBmOTBmZTEtZjU3Zi00NGY1LWJiNmItZmIyM2E0NDQ4ODk0XkEyXkFqcGdeQXVyNjkzODMxNDE@._V1_SY500_CR0,0,355,500_AL_.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tj0s0m9525nc'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bon Cop Bad Cop 2  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjZhOWNmZDEtNmVjZS00N2NhLWE4YTktZWNhZjMwYWQ2ZDc4XkEyXkFqcGdeQXVyNDIyMjQzMQ@@._V1_.jpg</fanart>
+<genre>Acción | Comedia | Crimen</genre>
+<info>Han pasado ocho años desde que Martin Ward y David Bouchard se conocieron de una manera espectacular en la frontera entre Quebec y Ontario. Los dos hombres han seguido siendo amigos pero el tiempo pasa y no han hablado casi en un año. Ahora, Ward y Bouchard deben enfrentarse a una importante red de robo de vehículos que resulta ser mucho más peligrosa de lo que esperaban.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/bon_cop_bad_cop_2-512345234-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f3rpfrbgdn83'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Geostorm (Geo-Tormenta)</title>
+<genre>Acción | Thriller | Sci-Fi | Catástrofes</genre>
+<info>Cuando el control de los satélites de todo el mundo está en mal funcionamiento, un obstinado ingeniero de comunicaciones se verá obligado a trabajar junto a su hermano, con el que lleva años sin tener contacto, para tratar de salvar el mundo de una tormenta de proporciones épicas. Mientras se trata de lidiar con el problema espacial, en la Tierra, se está tramando una conspiración para acabar con la vida del presidente de los Estados Unidos</info>
+<date>2017</date>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bp7q18ps80hi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Wheelman</title>
+<fanart>https://pics.filmaffinity.com/Wheelman-676955508-large.jpg</fanart>
+<genre>Acción | Thriller | Crimen | Robos & Atracos | Coches | Automovilismo</genre>
+<info>Durante un atraco a un banco, el conductor contratado para fugarse tras el robo deberá hacer uso de su ingenio y destreza cuando recibe órdenes desde un número desconocido</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/wheelman-387448094-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKQC4MNBF4</urlsolve>
+</item>
+
+<items>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Kidnap - Secuestrar</title>
+<fanart>https://pics.filmaffinity.com/Mujer_en_llamas-414176717-large.jpg</fanart>
+<genre>Thriller | Acción | Secuestros / Desapariciones</genre>
+<info>Una madre no se detendrá ante nada para intentar recuperar a su hijo cuando este es secuestrado delante de ella en un parque de atracciones.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/Mujer_en_llamas-966835103-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rywbh11ocnge'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Atomic Blonde [HD] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjc1NDJiZmEtYTM0NC00MGQ4LWI3NWYtODMxMzc1OTZmMjY5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg</fanart>
+<genre>Acción | Thriller | Espionaje | Guerra Fría | Años 80 | Cómic</genre>
+<info>Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín oriental. Lorraine no se detendrá ante nada para conseguir dar con esa lista, enfrentándose a varios asesinos y sumergiéndose en un mundo en el que nadie parece ser quien dice ser.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/atomic_blonde-338199948-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKU1SAHO3C</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Barry Seal: Solo En América  </title>
+<fanart>https://pics.filmaffinity.com/Barry_Seal_Solo_en_Am_rica-856307251-large.jpg</fanart>
+<genre>Thriller | Acción | Comedia | Biográfico | Años 70 | Años 80 | Crimen | Drogas | Espionaje</genre>
+<info>Basada en la vida real de Barry Seal, un expiloto que se convirtió en un importante narcotraficante en el cartel de Medellín y que acabó siendo reclutado por la CIA y el departamento de inteligencia de la DEA. 
+</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/american_made-694891692-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h9fxio9bpu55'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Gran Fuga  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjUwNGVhMmMtZDdjYi00YzY4LThhMWItY2IwMzY4ZjVkZjZkXkEyXkFqcGdeQXVyMjIxOTk4Mzg@._V1_SY1000_CR0,0,1436,1000_AL_.jpg</fanart>
+<genre>Acción | Thriller | Coches / Automovilismo</genre>
+<info>Dos hermanos especializados en el robo de automóviles viajan al sur de Francia para probar nuevos horizontes.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/overdrive-331863894-large.jpg</thumbnail>
+<urlsolve>http://gamovideo.com/hiueozw7qngv</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Objetivo: Hasselhoff  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNmJkNTk0NDktMGJiYS00ZTYyLTk2MDYtYTNhM2FhMzMzNmZhXkEyXkFqcGdeQXVyMTk5MjkzMjU@._V1_SX1777_CR0,0,1777,952_AL_.jpg</fanart>
+<genre>Acción | Comedia</genre>
+<info>El propietario de un nightclub trata de pagar un préstamo que debe a un implacable prestamista.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/killing_hasselhoff-704136530-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJRSCXERJT&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Batman Vs. Dos Caras  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhmYjVkN2UtMDRiZi00YTAzLTg5MGQtZGQyMGRiODY1MGUxXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_.jpg</fanart>
+<genre>Animación | Acción | Comedia | Superhéroes | Cómic | DC Comics | Secuela</genre>
+<info>En la Penitenciaría de Gotham, en presencia de Batman, Robin y el Fiscal de Distrito Harvey Dent, el Dr. Hugo Strange y su asistente, Dr. Harleen Quinzel, realizan un experimento en cinco presos; Joker, Penguin, Riddler, Egghead y Mr. Freeze en un intento de eliminar su mal con una máquina llamada Evil Extractor. El experimento funciona mal y Harvey se expone a un gas marcándole el lado izquierdo de su cara y que hace que éste se convierta en Dos Caras.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/batman_vs_two_face-118023855-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjdcm5wxffac'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Persecución Extrema 5  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmFjOGZhOWEtMmQyNC00NGI4LTlhYTYtMjE1YTE2ZDEwYjY3XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_.jpg</fanart>
+<genre>Acción | Thriller | Secuela | Terrorismo</genre>
+<info>The Miz vuelve como Jake Carter, un ex-Marine que sirvió al ejército en el Este Medio y ahora trabaja como paramédico salvando vidas. Después de responder a una llamada de emergencia en un aparcamiento abandonado, Carter tendrá que proteger a un hombre malherido del ataque de una banda de moteros sin escrúpulos. Contra todo pronóstico, Carter tendrá que utilizar sus habilidades como ex-Marine para detener a la banda de moteros antes de que más sangre inocente sea derramada</info>
+<date>2017</date>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmNjZmFjNzktZDJlZC00M2U1LTg5MmYtMmY2YzllMzYyMDk3XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_SY1000_CR0,0,695,1000_AL_.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/embed/FKE37S6G8X</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Duro De Cuidar</title>
+<link>http://bit.ly/2xGOpiV</link>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNTE0MzI1Nl5BMl5BanBnXkFtZTgwNDMyMzM0MjI@._V1_SY1000_CR0,0,1617,1000_AL_.jpg</fanart>
+<genre>Acción | Comedia | Buddy Film</genre>
+<info>El prestigioso guardaespaldas Michael Bryce (Ryan Reynolds) recibe un nuevo cliente: un asesino a sueldo, Darius Kincaid (Samuel L. Jackson), que debe testificar en un juicio en La Haya contra un cruel dictador (Gary Oldman).</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_hitman_s_bodyguard-774704433-large.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Spider-man: De Regreso A Casa  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYzcyYzg3ZDctN2Y2Zi00ZDc4LWJlODQtNzRmYTY0YWE1MzIyXkEyXkFqcGdeQXVyNjIzMDA2NjE@._V1_.jpg</fanart>
+<genre>Fantástico | Acción | Comedia | Ciencia ficción | Superhéroes | Cómic | Marvel Comics | Adolescencia | 3-D</genre>
+<info>Peter Parker (Tom Holland) comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía (Marisa Tomei). Bajo la atenta mirada de su mentor Tony Stark (Robert Downey Jr.), Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture (Michael Keaton) y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/spider_man_homecoming-336093112-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rgxa5ran66tu'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Baby: El Aprendiz Del Crimen  </title>
+<fanart>https://pics.filmaffinity.com/Baby_El_aprendiz_del_crimen-410479562-large.jpg</fanart>
+<genre>Acción | Comedia | Crimen | Robos & Atracos | Coches / Automovilismo</genre>
+<info>Baby (Ansel Elgort), un joven y talentoso conductor especializado en fugas, depende del ritmo de su banda sonora personal para ser el mejor en lo suyo. Cuando conoce a la chica de sus sueños (Lily James), Baby ve una oportunidad de abandonar su vida criminal y realizar una huida limpia. Pero después de ser forzado a trabajar para un jefe de una banda criminal (Kevin Spacey), deberá dar la cara cuando un golpe malogrado amenaza su vida, su amor y su libertad.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/baby_driver-399368582-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKFVZNVML1&q=480p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]S.w.a.t.: Bajo Asedio  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYzczNWVjYWQtM2IwZi00NTQyLWIxMGYtNzA0ZTEzNmNmNzcwXkEyXkFqcGdeQXVyNjI5NTM3NDQ@._V1_.jpg</fanart>
+<genre>Acción</genre>
+<info>Tras el desmantelamiento de un cártel, el agente SWAT Travis Hall (Sam Jaeger) captura a un prisionero. Al poco tiempo, el mismo grupo SWAT sufrirá un asedio constante en el intento por recuperar al prisionero.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/s_w_a_t_under_siege-816512252-large.jpg</thumbnail>
+<urlsolve>https://rapidvideo.com/v/FI1AA937AM</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Valerian Y La Ciudad De Los Mil Planetas [TS-HQ] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDVjNWJiMjctNmE3Ny00NjdkLWFmOWQtOTE5YjRjMGE3MTFkXkEyXkFqcGdeQXVyNjcwNTE5MTE@._V1_.jpg</fanart>
+<genre>Ciencia ficción | Acción | Romance | Aventura espacial | Cómic</genre>
+<info>En el siglo XXVIII, Valerian (Dane DeHaan) y Laureline (Cara Delevingne) son un equipo de agentes espaciales encargados de mantener el orden en todos los territorios humanos. Bajo la asignación del Ministro de Defensa, se embarcan en una misión hacia la asombrosa ciudad de Alpha, una metrópolis en constante expansión, donde especies de todo el universo han convergido durante siglos para compartir conocimientos, inteligencia y culturas. Pero hay un misterio en el centro de Alpha, una fuerza oscura amenaza la paz en la Ciudad de los Mil Planetas. Valerian y Laureline deben luchar para identificar la amenaza y salvaguardar el futuro, no sólo el Alfa, sino del universo.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/valerian_and_the_city_of_a_thousand_planets-459268698-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/781jsb6adoid'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Noche De Venganza   </title>
+<fanart>http://cdn-02.independent.ie/entertainment/article35681180.ece/ef17d/AUTOCROP/h342/2017-05-05_ent_30868755_I1.JPG</fanart>
+<genre>Acción | Thriller | Policíaco | Secuestros / Desapariciones | Remake</genre>
+<info>Vincent Downs (Fox) es un agente que se encuentra en medio de una red de policías corruptos implicados con el control de un casino. Cuando un atraco sale mal, un grupo de criminales secuestra al hijo adolescente de Vincent. En sólo una noche, él debe salvar a su hijo, evadir una investigación interna de la propia policía y llevar a los secuestradores ante la justicia... Remake del film francés de 2011 &quot;Nuit blanche&quot;.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/sleepless-702634161-large.jpg</thumbnail>
+<urlsolve>http://vidto.me/embed-meq6w8jqbwsc.html</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dragonheart 4: Corazón De Fuego   </title>
+<fanart>https://image.tmdb.org/t/p/w1000/7Vpbfq6tHjVI64YZ7H0sIcPzKYs.jpg</fanart>
+<genre>Fantástico | Acción | Fantasía medieval | Dragones</genre>
+<info>Drago, un dragón que comparte su corazón con el rey de Brittania, debe encontrar un heredero al trono cuando el rey fallece. Pero los herederos potenciales, Edric y Meghan, usan su fuerza del dragón y el poder del fuego para competir por el trono. Cuando los vikingos roben el fuego del corazón y desafíen los derechos de los heranos, las rivalidades acabarán abriendo paso a la aventura más épica.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/dragonheart_battle_for_the_heartfire-427159738-large.jpg</thumbnail>
+<urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qZTdMV0pMLTZSYlE</urlsolve>
+</item>
+
