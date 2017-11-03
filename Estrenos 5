@@ -1,1 +1,323 @@
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]S.w.a.t.: Bajo Asedio  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYzczNWVjYWQtM2IwZi00NTQyLWIxMGYtNzA0ZTEzNmNmNzcwXkEyXkFqcGdeQXVyNjI5NTM3NDQ@._V1_.jpg</fanart>
+<genre>Acción</genre>
+<info>Tras el desmantelamiento de un cártel, el agente SWAT Travis Hall (Sam Jaeger) captura a un prisionero. Al poco tiempo, el mismo grupo SWAT sufrirá un asedio constante en el intento por recuperar al prisionero.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/s_w_a_t_under_siege-816512252-large.jpg</thumbnail>
+<urlsolve>https://rapidvideo.com/v/FI1AA937AM</urlsolve>
+</item>
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Amar  </title>
+<fanart>https://pics.filmaffinity.com/Amar-244965326-large.jpg</fanart>
+<genre>Romance | Drama | Drama romántico</genre>
+<info>Laura y Carlos se aman como si cada día fuera el último, y quizá esa intensidad del primer amor es la que les separará un año después. Opera prima de Esteban Crespo, director de siete cortometrajes y con más de 200 premios a sus espaldas, entre los que destacan el Goya a Mejor Cortometraje y la nominación al Oscar en 2014 por "Aquél no era yo".</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/Amar-610272901-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/eh3jijf0q2yv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Qué Le Pasó A Lunes  </title>
+<fanart></fanart>
+<genre>Ciencia ficción | Thriller | Distopía | Secuestros / Desapariciones</genre>
+<info>En un futuro distópico en el que la sobrepoblación y la hambruna han obligado al gobierno a implantar una política de un único hijo, siete hermanas, cada una con el nombre de un día de la semana, luchan por sobrevivir y pasar inadvertidas haciéndose pasar por una sola persona cuando salen a la calle: Karen Settman. Pero un día una de ella, Lunes, desaparece sin dejar rastro. Las otras hermanas intentarán encontrarla... </info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/what_happened_to_monday-107122698-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FIPMH5B9QI&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mujer Maravilla  </title>
+<fanart>https://image.tmdb.org/t/p/original/pfIVaXgkWMLDRXsHWFrPPbmVm9a.jpg</fanart>
+<genre>Fantástico | Acción | Bélico | Aventuras | Superhéroes | Cómic | DC Comics I Guerra Mundial</genre>
+<info>Antes de ser Wonder Woman (Gal Gadot) era Diana, princesa de las Amazonas, entrenada para ser una guerrera invencible. Diana fue criada en una isla paradisíaca protegida. Hasta que un día un piloto norteamericano (Chris Pine), que tiene un accidente y acaba en sus costas, le habla de un gran conflicto existente en el mundo [Primera Guerra Mundial]. Diana decide salir de la isla convencida de que puede detener la terrible amenaza. Mientras lucha junto a los hombres en la guerra que acabará con todas las guerras, Diana descubre todos sus poderes y su verdadero destino.</info>
+<date>2017</date>
+<thumbnail>https://image.tmdb.org/t/p/original/yjzHtHSAPDdRQejnTyFbifX2gef.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJR3VD41CA&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Baywatch: Guardianes De La Bahía  </title>
+<fanart>https://image.tmdb.org/t/p/w1000/tryI7qZHaLMVzMNpLyKHKDiZOLc.jpg</fanart>
+<genre>Acción | Comedia | Remake</genre>
+<info>Adaptación al cine de la serie "Los vigilantes de la playa". Narra la historia del esforzado socorrista Mitch Buchannon (Johnson) y su choque de carácter con un bravucón socorrista novato (Efron). Juntos, descubren una trama delictiva local que amenaza el futuro de la Bahía.</info>
+<date>2017</date>
+<thumbnail>https://image.tmdb.org/t/p/w500/sWBmFOor2S6nGXTkMq6of8M5ozj.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJLFAHID8B&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Death Note  </title>
+<fanart>https://pics.filmaffinity.com/Death_Note-630225378-large.jpg</fanart>
+<genre>Thriller | Intriga | Fantástico | Sobrenatural | Policíaco | Asesinos en serie | Manga</genre>
+<info>Un día, cuando Light termina las clases, encuentra un cuaderno negro tendido en el suelo, llamado «Death Note», un cuaderno sobrenatural que es capaz de matar personas si se escriben los nombres en él y si el portador visualiza mentalmente la cara de quien quiere asesinar. Nueva adaptación de la famosa serie (y manga) "Death Note" esta vez con actores reales.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/Death_Note-478544162-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjzd7xydh8vt'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mi Prima Rachel  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmVkNGQ3N2YtMTM5OS00ZTE4LWJjNTEtNDlmNDUxNmQ3OWEyL2ltYWdlXkEyXkFqcGdeQXVyNDcxNzU3MTE@._V1_.jpg</fanart>
+<genre>Drama | Romance | Drama de época | Venganza | Remake</genre>
+<info>El joven huérfano Phillip Ambrose planea vengarse de una hermosa mujer que ha asesinado a su tutor.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/Mi_prima_Rachel-354057817-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/embed/FIWNFSZ5GF</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Las Aventuras Del Capitán Calzoncillos  </title>
+<fanart>https://pics.filmaffinity.com/Las_aventuras_del_Capit_n_Calzoncillos-477809265-large.jpg</fanart>
+<genre>Animación | Comedia | Infantil | Superhéroes | 3-D</genre>
+<info>Dos escolares traviesos hipnotizan al director del colegio para convertirlo en su héroe de cómic: Capitán Calzoncillos. Jorge y  Berto son super buenos amigos y pasan sus días creando cómics y soñando con bromas. Un día, hipnotizan accidentalmente al *dire* de su escuela, el Sr. Krupp, que a partir de entonces se cree que es el Capitán Calzoncillos, un súperhéroe malhumorado cuyo traje consiste en ropa interior y una capa. Por si esto no fuera suficientemente malo, su nuevo maestro es un malvado científico maldito dispuesto a exigir su venganza en la escuela. Jorge, Berto y el Capitán Calzoncillos deberán entonces unirse para frustrar su malvado plan.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/captain_underpants_the_first_epic_movie-413756520-large.jpg</thumbnail>
+<urlsolve>https://vidoza.net/embed-3xfmr5alnnir.html</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The Monster Project [CAM] </title>
+<fanart></fanart>
+<genre>Terror | Acción | Cine independiente USA</genre>
+<info>Unos directores de cine ponen un anuncio para un casting de monstruos reales, para su documental *The Monster Project*. Encuentran a tres que dicen ser un hombre bestia, un vampiro y un demonio. Los directores piden a estos tres individuos que cuenten sus experiencias. En el equipo trabaja un drogadicto que se está rehabilitando y que cree que sus compañeros subestiman el poder de estos seres. Cuando de repente todo se complica, él tendrá que luchar para sobrevivir.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_monster_project-401039962-large.jpg</thumbnail>
+<urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qNjVoZXdGRGlNX1E</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Empeliculados  </title>
+<fanart></fanart>
+<genre>Comedia</genre>
+<info>Jorge, un director de cine soñador con pocos pesos en el bolsillo y Andrés, un actor venido a menos al que no lo reconoce ni su mamá, llevan años intentando hacer su primera película. Cuando su sueño se desmorona, Jorge y Andrés deciden ocultarle la verdad a sus compañeros de proyecto, quienes son también sus mejores amigos. Ambos, terminarán embarcándose en una serie de ocurrencias disparatadas para conseguir el dinero y sostener su mentira.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/empeliculados-253288632-large.jpg</thumbnail>
+<urlsolve>https://drive.google.com/open?id=0B4qMIpsKySAFZEpDQWRCTnFnVXc</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Bar  </title>
+<fanart>https://pics.filmaffinity.com/El_bar-695221906-large.jpg</fanart>
+<genre>Thriller | Intriga</genre>
+<info>9:00 horas. Un grupo de personas absolutamente heterogéneo desayuna en un bar en el centro de Madrid. Uno de ellos tiene prisa; al salir por la puerta recibe un disparo en la cabeza. Nadie se atreve a socorrerle. Están atrapados.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/El_bar-629716188-large.jpg</thumbnail>
+<urlsolve>https://rapidvideo.com/v/FHX7EO5AMP</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]3 Idiotas  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NjQ3Nzc5M15BMl5BanBnXkFtZTgwNTc0NjkxMjI@._V1_.jpg</fanart>
+<genre>Comedia | Romance | Comedia romántica | Amistad | Colegios & Universidad | Enseñanza | Remake</genre>
+<info>Un grupo de amigos se embarcan en una aventura para encontrar a un compañero de la Universidad, quien desapareció el día de la graduación sin dejar rastro.
+
+Adaptación mexicana de “3 Idiots”, película dirigida por Rajkumar Hirani y que rompió récords en taquilla dentro y fuera de la India.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/3_idiotas-394677796-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FIRQGZVUE3&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Todos Queremos A Alguien  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BM2ExZjRlMmItY2RkYy00ZjkzLWE5NTYtMGExMDYzODA4ZWFkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,744_AL_.jpg</fanart>
+<genre>Comedia | Romance | Comedia romántica</genre>
+<info>Parecería que la joven y hermosa Clara Barrón (Karla Souza) lo tiene todo, un gran trabajo; una gran casa en Los Angeles y una amorosa familia que ama la diversión. Lo que no tiene claro en su vida es el amor.
+
+Presionada en asistir a una boda en México, Clara pide a un compañero de trabajo que la acompañe y se haga pasar por su novio cuando es sorprendida por su ex novio (Chema Yazpik), muy querido por su familia, quien aparece después de haber estado ausente por completo de su vida.
+
+Confundida, Clara tiene que decidir entre regresar al pasado o abrir su corazón para nuevas e inesperadas posibilidades. En una aventura llena de risas, ella aprende que a veces su loca familia puede ayudarla a encontrar el amor.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/todos_queremos_a_alguien-648082628-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ayqneogswa9b'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Ícaro  </title>
+<fanart>https://pics.filmaffinity.com/caro-423565177-large.jpg</fanart>
+<genre>Documental | Documental deportivo</genre>
+<info>La investigación sobre dopaje deportivo conduce al juego del gato y el ratón cuando un ciclista estadounidense y un experto ruso destapan un escándalo internacional.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/caro-807322895-large.jpg</thumbnail>
+<urlsolve>https://drive.google.com/open?id=0B4qMIpsKySAFMmVPQWc0d0RGUkk</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Valerian Y La Ciudad De Los Mil Planetas [TS-HQ] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDVjNWJiMjctNmE3Ny00NjdkLWFmOWQtOTE5YjRjMGE3MTFkXkEyXkFqcGdeQXVyNjcwNTE5MTE@._V1_.jpg</fanart>
+<genre>Ciencia ficción | Acción | Romance | Aventura espacial | Cómic</genre>
+<info>En el siglo XXVIII, Valerian (Dane DeHaan) y Laureline (Cara Delevingne) son un equipo de agentes espaciales encargados de mantener el orden en todos los territorios humanos. Bajo la asignación del Ministro de Defensa, se embarcan en una misión hacia la asombrosa ciudad de Alpha, una metrópolis en constante expansión, donde especies de todo el universo han convergido durante siglos para compartir conocimientos, inteligencia y culturas. Pero hay un misterio en el centro de Alpha, una fuerza oscura amenaza la paz en la Ciudad de los Mil Planetas. Valerian y Laureline deben luchar para identificar la amenaza y salvaguardar el futuro, no sólo el Alfa, sino del universo.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/valerian_and_the_city_of_a_thousand_planets-459268698-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/781jsb6adoid'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dunkerque</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMjQyNDU2Ml5BMl5BanBnXkFtZTgwODgyNDY4MjI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<genre>Bélico | Drama | II Guerra Mundial | Supervivencia | Histórico | Basado en hechos reales</genre>
+<info>Año 1940, en plena II Guerra Mundial. En las playas de Dunkerque, cientos de miles de soldados de las tropas británicas y francesas se encuentran rodeados por el avance del ejército alemán, que ha invadido Francia. Atrapados en la playa, con el mar cortándoles el paso, las tropas se enfrentan a una situación angustiosa que empeora a medida que el enemigo se acerca.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/dunkirk-461720087-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5x6svfs5g6q7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Increíble Jessica James  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NDM0ODY2MDdeQTJeQWpwZ15BbWU4MDc2NTgxOTAy._V1_SY1000_CR0,0,1596,1000_AL_.jpg</fanart>
+<genre>Comedia | Cine independiente USA</genre>
+<info>Jessica James, una joven autora teatral de Nueva York, acaba de romper con su pareja. Rota y con ganas de olvidar y seguir con su vida, Jessica entabla una improbable relación con un diseñador de aplicaciones divorciado que conoce en una cita a ciegas a través de Tinder. </info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_incredible_jessica_james-487371871-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FI2X8E2PSD&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cómo Ser Un Latin Lover  </title>
+<fanart>https://s3.amazonaws.com/pelisfox/gallery/original/fc50a1e357b2262938f5599fe1676223.jpg</fanart>
+<genre>Comedia | Familia</genre>
+<info>Máximo, un gigoló especializado en la seducción de mujeres ancianas ricas,  se casa con una mujer que le dobla en edad. Veinticinco años después, harto y aburrido de despertar junto a su esposa de 80 años, recibe la sorpresa de su vida cuando ella termina abandonándolo. Forzado a salir de su mansión y buscando desesperadamente dónde quedarse, deberá mudarse con su distante hermana Sara y su adorable hijo nerd Hugo,  en su pequeño departamento.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/how_to_be_a_latin_lover-107347649-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rni9h4gzxjku'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Un Don Excepcional  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMmE2NDMxMDgtNjA2Mi00NjZhLThmODMtMmJmNzM5MTQyNjk4XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,1482,1000_AL_.jpg</fanart>
+<genre>Drama | Infancia | Familia | Matemáticas</genre>
+<info>La película narra la historia de un hombre que debe hacerse cargo de su sobrina ante el fallecimiento de su hermana. La situación se complica cuando debe luchar por la custodia de la niña.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/gifted-648673583-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/id48kj52oh87'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Rey Arturo: La Leyenda De La Espada  </title>
+<fanart>https://image.tmdb.org/t/p/w1000/rX81lqj7mcMwXmIWtOuJlKkTj84.jpg</fanart>
+<genre>Fantástico | Acción | Edad Media | Capa y espada | Espada y brujería</genre>
+<info>Arturo es un joven intrépido que dirige a su pandilla por los callejones de Londonium. Tras sacar la espada de Excalibur, se verá obligado a tomar algunas duras decisiones. Junto a una misteriosa mujer llamada Guinevere, deberá aprender a manejar la espada, vencer a sus demonios y unir al pueblo para derrotar al tirano Vortigern, quien robó su corona y asesinó a sus padres antes de convertirse en rey.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/king_arthur_legend_of_the_sword-708491642-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/02vul0b43ro9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Un Golpe Con Estilo  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3NjgxOTQ1Nl5BMl5BanBnXkFtZTgwNTg1MzI5MTI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<genre>Comedia | Robos & Atracos | Vejez | Remake</genre>
+<info>Tres jubilados a los que el sistema les ha quitado el plan de pensiones planean atracar un banco para recuperar su dinero.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/going_in_style-193065040-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/uypw958kz9k4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR deepskyblue]Siguiente[/COLOR]</title>
+<link>Http://x.o</link>
+<externallink></externallink>
+<thumbnail>http://2.bp.blogspot.com/-i4YLlSBG_vA/WfvMHwVl0FI/AAAAAAAACJU/gvunHl1b6-4UxdnB8wKwvTaWVnNMtgtIgCK4BGAYYCw/s1600/sigiente.jpg</thumbnail>
+<fanart></fanart>
+<SetViewMode>53</SetViewMode>
+</item>
