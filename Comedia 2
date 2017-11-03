@@ -1,1 +1,268 @@
+<items>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Coco [CAM] </title>
+<fanart>https://pics.filmaffinity.com/Coco-759485712-large.jpg</fanart>
+<genre>Animación | Fantástico | Comedia | Pixar | Familia | Música</genre>
+<info>Miguel es un joven con el sueño de convertirse en leyenda de la música a pesar de la prohibición de su familia. Su pasión le llevará a adentrarse en la &quot;Tierra de los Muertos&quot; para conocer su verdadero legado familiar. </info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/coco-155051069-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FL28JVXZEY</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tres Familias Locas</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzU3Zjk3ZDAtZDMzOS00ZjRmLTg1NmYtYjM3YjM5OGM1Mjg1L2ltYWdlXkEyXkFqcGdeQXVyMjI3ODYyNDU@._V1_.jpg</fanart>
+<genre>Comedia</genre>
+<info>La película narra la historia de tres familias, una hispana, una caucásica, y una afroamericana, que además se encuentran acampando en el mismo lugar el fin de semana del 4 de julio e intentan convivir en paz, sin resultado. Eventualmente prefieren dejar todo a la suerte, y compiten para que gane el mejor.</info>
+<date>2017</date>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjM0NDg2YjMtOWJlMy00NzQxLTkwMGItNmE1NTIyZjIzMDgwXkEyXkFqcGdeQXVyNjc4NTUzNzg@._V1_.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKW8EB8O8D</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Una Noche Con Mi Ex-suegro</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjJiNmYzNDUtYjk2NS00NjljLTk0ZDktNTU3NWM2MDBmMzIxXkEyXkFqcGdeQXVyMzI1MTUzOTA@._V1_SY1000_CR0,0,1500,1000_AL_.jpg</fanart>
+<genre>Comedia</genre>
+<info>Un padre adicto al trabajo intenta visitar a su hija durante una escala en Los Ángeles, sólo para descubrir que ella ha desaparecido, se ve obligado a formar equipo con su torpe ex novio para encontrarla en el transcurso de una noche transformadora.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/all_nighter-846539991-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKU1MLGLF3</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Señor Dame Paciencia</title>
+<fanart>https://pics.filmaffinity.com/Se_or_dame_paciencia-640502328-large.jpg</fanart>
+<genre>Comedia | Familia | Road Movie</genre>
+<info>Cuando la mujer de Gregorio, un banquero muy conservador, del Real Madrid y muy gruñón, fallece repentinamente, éste se ve obligado a cumplir su última voluntad: pasar un fin de semana con sus hijos y sus respectivas parejas en Sanlúcar de Barrameda para esparcir sus cenizas en el Guadalquivir. Aquí es donde empiezan los problemas para Gregorio, ya que su hija Sandra está casada con Jordi, un catalán muy culé al que no soporta. Su otra hija, Alicia, está saliendo con Leo, un hippy anti-sistema al que tampoco puede ni ver,  y Carlos, su hijo pequeño, con el que lleva seis meses sin hablarse desde que salió del armario, se presenta con su novio Eneko, un vasco de origen senegalés. Este viaje multicultural pondrá a prueba la tolerancia y la capacidad de perdonar de una familia tan disfuncional como cualquier otra, en el que tendrán que aprender a aceptarse los unos a los otros, con sus virtudes y defectos.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/senor_dame_paciencia-935679678-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yyan8na4thhj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bon Cop Bad Cop 2  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjZhOWNmZDEtNmVjZS00N2NhLWE4YTktZWNhZjMwYWQ2ZDc4XkEyXkFqcGdeQXVyNDIyMjQzMQ@@._V1_.jpg</fanart>
+<genre>Acción | Comedia | Crimen</genre>
+<info>Han pasado ocho años desde que Martin Ward y David Bouchard se conocieron de una manera espectacular en la frontera entre Quebec y Ontario. Los dos hombres han seguido siendo amigos pero el tiempo pasa y no han hablado casi en un año. Ahora, Ward y Bouchard deben enfrentarse a una importante red de robo de vehículos que resulta ser mucho más peligrosa de lo que esperaban.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/bon_cop_bad_cop_2-512345234-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f3rpfrbgdn83'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Marjorie Prime  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQxODcwNDc3Nl5BMl5BanBnXkFtZTgwNjk1ODE5MDI@._V1_SY1000_CR0,0,1501,1000_AL_.jpg</fanart>
+<genre>Comedia | Drama | Intriga | Ciencia ficción | Comedia dramática</genre>
+<info>Un servicio que ofrece recreaciones holográficas de seres queridos fallecidos permite a un hombre (Tim Robbins) enfrentarse con una versión más joven de su suegro (Jon Hamm).</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/marjorie_prime-943518512-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKQC1FQB3A</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The Resurrection Of Gavin Stone  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1YWFhNmEtZjdjYi00NTc4LWE5MGQtZTY4MzI5YjgxNTAzXkEyXkFqcGdeQXVyNTM5NDQ1NzA@._V1_.jpg</fanart>
+<genre>Comedia | Romance | Comedia romántica</genre>
+<info>Una antigua estrella infantil se ve obligada a prestar un servicio comunitario en una gran iglesia de su localidad natal. En el mismo sitio un chico se hace pasar por un fiel cristiano para lograr el papel de Jesús en la representación anual que se hace en Pascua.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_resurrection_of_gavin_stone-195122922-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKPAY2UI73</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Condorito: La Película</title>
+<fanart>https://applauss.com/wp-content/uploads/2017/03/Condorito-la-pelicula-2017-2.jpg</fanart>
+<genre>Animación | Comedia | Aventuras | 3-D | Extraterrestres | Cómic</genre>
+<info>El pajarraco más querido de Pelotillehue emprenderá, junto a su tenaz sobrino Coné, una peligrosa aventura para rescatar a su desaparecida suegra Doña Tremebunda, abducida misteriosamente por una banda alienígena. Lo que no ha tomado en cuenta es que, mientras intenta reparar el error con la madre de Yayita, ésta será tentada románticamente por el insistente Pepe Cortisona. Adaptación cinematográfica del famoso cómic chileno de Pepo.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/condorito_la_pelicula-576716946-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKIVK0Z17L&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cómo Cortar A Tu Patán</title>
+<fanart>https://www.cinepremiere.com.mx/wp-content/uploads/2017/10/Como-cortar-a-tu-patan-critica.jpg</fanart>
+<genre>Comedia | Romance | Comedia romántica</genre>
+<info>Amanda (Mariana Treviño), terapeuta especializada en ayudar a las mujeres a terminar con relaciones destructivas, vive alejada de los hombres y el compromiso, enfocada en su trabajo y en proteger a su hermana Natalia (Camila Sodi). Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan que la llevará a enfrentarse a su más grande miedo... el amor.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/como_cortar_a_tu_patan-730307577-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKP6B049L4&q=480p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Landline  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmU5YmY2OGMtMGUwMS00Y2M3LTkyODktZWJlODc2ZTQ3Y2MyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjEwNjUzNzU@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<genre>Comedia | Años 90 | Adolescencia</genre>
+<info>Una adolescente que vive con su hermana y sus padres en Manhattan durante la década de los noventa descubre que su padre está teniendo un romance.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/landline-361724256-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xx7j27xjf36o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Meyerowitz: La Familia No Se Elige  </title>
+<fanart>https://pics.filmaffinity.com/Los_Meyerowitz_La_familia_no_se_elige_Historias_nuevas_y_selectas-737092011-large.jpg</fanart>
+<genre>Comedia | Drama | Comedia dramática | Familia</genre>
+<info>Los tres hijos, ya adultos, de un arisco artista neoyorquino se enfrentan a la difícil relación que tienen con su padre y entre ellos. La familia tenía a sus miembros separados, pero se reúnen para un evento que celebra la obra artística de su padre. Allí surgirán conflictos familiares.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_meyerowitz_stories-137233913-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5kbb6c1gx0i8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nannys nightmare (La ninera perfecta)</title>
+<fanart>https://i.ytimg.com/vi/jJ0HPSouU6M/hqdefault.jpg</fanart>
+<genre>Comedia</genre>
+<info>Summer es diseñadora de interiores, pero no duda en aceptar la oferta de una pareja para trabajar como niñera de su hija Sophie. La niña muestra un comportamiento que llama su atención</info>
+<date>2017</date>
+<thumbnail>http://s.ecrater.com/stores/283985/591927162dfb7_283985n.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJNARXPZHN&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]My Little Pony: La Película [CAM] </title>
+<fanart>https://pics.filmaffinity.com/my_little_pony_the_movie-280374488-large.jpg</fanart>
+<genre>Animación | Aventuras | Comedia | Fantástico | Infantil | Amistad | Caballos</genre>
+<info>Cuando una fuerza oscura amenaza a Ponyville y el Mane 6, todos se van en un viaje hasta el final de equestria para salvar a su querida casa, y se encuentran con nuevos amigos y peligrosos desafíos a lo largo del camino.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/my_little_pony_the_movie-280374488-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FK91T2VHYH&q=360p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Me Gusta, Pero Me Asusta [CAM] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGY3NTJmYWMtZDBkMy00MTc4LTgwNWQtMjc2NTgwNjM3MTI4L2ltYWdlXkEyXkFqcGdeQXVyNjgzNzQ2MjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<genre>Comedia | Romance | Comedia romántica | Familia</genre>
+<info>Dicen que todos los mexicanos somos iguales, pero eso… está por verse. Brayan Rodríguez (Alejandro Speitzer), descendiente de una de las familias más “conocidas” de Sinaloa, es el elegido para conquistar la gran ciudad expandiendo los negocios secretos de su familia. Claudia (Minnie West) es la clásica soñadora confundida, gozando un año sabático mientras “encuentra su vocación”; todo a expensas de su padre. ¿Imaginas qué podría pasar si estos dos mundos se encontraran? Personajes extravagantes, divertidos y llenos de contrastes desencadenarán una historia en donde más de uno nos identificaremos.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/me_gusta_pero_me_asusta-364594343-large.jpg</thumbnail>
+<urlsolve>https://vidoza.net/zm7qxgq8sqdc.html</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Objetivo: Hasselhoff  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNmJkNTk0NDktMGJiYS00ZTYyLTk2MDYtYTNhM2FhMzMzNmZhXkEyXkFqcGdeQXVyMTk5MjkzMjU@._V1_SX1777_CR0,0,1777,952_AL_.jpg</fanart>
+<genre>Acción | Comedia</genre>
+<info>El propietario de un nightclub trata de pagar un préstamo que debe a un implacable prestamista.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/killing_hasselhoff-704136530-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJRSCXERJT&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Batman Vs. Dos Caras  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhmYjVkN2UtMDRiZi00YTAzLTg5MGQtZGQyMGRiODY1MGUxXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_.jpg</fanart>
+<genre>Animación | Acción | Comedia | Superhéroes | Cómic | DC Comics | Secuela</genre>
+<info>En la Penitenciaría de Gotham, en presencia de Batman, Robin y el Fiscal de Distrito Harvey Dent, el Dr. Hugo Strange y su asistente, Dr. Harleen Quinzel, realizan un experimento en cinco presos; Joker, Penguin, Riddler, Egghead y Mr. Freeze en un intento de eliminar su mal con una máquina llamada Evil Extractor. El experimento funciona mal y Harvey se expone a un gas marcándole el lado izquierdo de su cara y que hace que éste se convierta en Dos Caras.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/batman_vs_two_face-118023855-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjdcm5wxffac'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Emoji: La Película  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MTY2NTg1NV5BMl5BanBnXkFtZTgwNjIxNTgyMDI@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<genre>Animación | Comedia | Aventuras | Internet / Informática | 3-D</genre>
+<info>Los protagonistas habitan la misteriosa tierra de Textopolis, donde todos los emojis favoritos de la gente cobran vida, mientras esperan ser seleccionados por el usuario del teléfono. Todos los personajes tienen una sola expresión facial a excepción de Gen (TJ Miller), un emoji que nació sin filtro y se llena de múltiples expresiones. Para lograr ser normal, Gen se embarcará en una aventura o “app-ventura”, junto a sus amigos Hi-5 y Jailbreak. Pero pronto, una gran amenaza hará que el destino de estos personajes dependa de los tres amigos, teniendo que salvar su mundo antes que sea borrado por completo. 
+</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_emoji_movie-172311166-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKEVFRC8LL&q=1080p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Duro De Cuidar</title>
+<link>http://bit.ly/2xGOpiV</link>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNTE0MzI1Nl5BMl5BanBnXkFtZTgwNDMyMzM0MjI@._V1_SY1000_CR0,0,1617,1000_AL_.jpg</fanart>
+<genre>Acción | Comedia | Buddy Film</genre>
+<info>El prestigioso guardaespaldas Michael Bryce (Ryan Reynolds) recibe un nuevo cliente: un asesino a sueldo, Darius Kincaid (Samuel L. Jackson), que debe testificar en un juicio en La Haya contra un cruel dictador (Gary Oldman).</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_hitman_s_bodyguard-774704433-large.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The House  </title>
+<fanart>https://pics.filmaffinity.com/The_House-315985690-large.jpg</fanart>
+<genre>Comedia | Juego</genre>
+<info>Una matrimonio se gasta los ahorros que tenían previstos para pagar la universidad de sus hijas, así que para intentar solucionar este grave problema deciden abrir un casino en el sótano de su casa.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_house-537455279-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FK5LEBXIFR</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Spider-man: De Regreso A Casa  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYzcyYzg3ZDctN2Y2Zi00ZDc4LWJlODQtNzRmYTY0YWE1MzIyXkEyXkFqcGdeQXVyNjIzMDA2NjE@._V1_.jpg</fanart>
+<genre>Fantástico | Acción | Comedia | Ciencia ficción | Superhéroes | Cómic | Marvel Comics | Adolescencia | 3-D</genre>
+<info>Peter Parker (Tom Holland) comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía (Marisa Tomei). Bajo la atenta mirada de su mentor Tony Stark (Robert Downey Jr.), Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture (Michael Keaton) y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/spider_man_homecoming-336093112-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rgxa5ran66tu'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
