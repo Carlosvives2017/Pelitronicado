@@ -1,0 +1,207 @@
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Thor: Ragnarok [CAM] </title>
+<fanart>https://pics.filmaffinity.com/Thor_Ragnarok-166911107-large.jpg</fanart>
+<genre>Fantástico | Acción | Aventuras | Superhéroes | Cómic | Marvel Comics | Secuela | 3-D</genre>
+<info>Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/thor_ragnarok-115636540-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rw2rjwi8vf7d'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Línea Mortal: Al Límite [CAM] </title>
+<fanart>https://pics.filmaffinity.com/L_nea_mortal_Al_l_mite-722377582-large.jpg</fanart>
+<genre>Ciencia ficción | Thriller | Secuela | Remake</genre>
+<info>Cinco estudiantes de medicina, con la esperanza de desentrañar el misterio de lo que aguarda más allá de los confines de la vida, emprenden un atrevido y peligroso experimento. A base de detener su corazón durante un breve lapso de tiempo, cada uno de ellos sufre una experiencia cercana a la muerte clínica. A medida que la investigación se vuelve cada vez más peligrosa, se verán obligados a afrontar los pecados de su pasado, además de vérselas con las consecuencias paranormales de sus incursiones en el más allá.... Remake de &quot;Línea mortal&quot; (1990).</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/flatliners-779507207-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/83r0zguljnx4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]It (eso) [HD] </title>
+<fanart>https://pics.filmaffinity.com/It_Eso-108799474-large.jpg</fanart>
+<genre>Terror | Fantástico | Sobrenatural | Años 80 | Monstruos | Payasos | Remake</genre>
+<info>Cuando empiezan a desparecer niños en el pueblo de Derry (Maine), un pandilla de amigos lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos. Adaptación cinematográfica de la conocida novela de Stephen King &quot;It&quot;.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/it-787119144-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Planeta De Los Simios: La Guerra  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjkzYjE2NWQtYzFmMC00ZGY1LWJjNzItN2M2YTNmZGFhZmU0XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,864_AL_.jpg</fanart>
+<genre>Ciencia ficción | Aventuras | Bélico | Futuro postapocalíptico | Simios | Secuela | 3-D</genre>
+<info>César y sus monos son forzados a encarar un conflicto mortal contra un ejército de humanos liderado por un brutal coronel. Después de sufrir pérdidas enormes, César lucha con sus instintos más oscuros en una búsqueda por vengar a su especie. Cuando finalmente se encuentren, Cesar y el Coronel protagonizarán una batalla que pondrá en juego el futuro de ambas especies y el del mismo planeta. Tercera película de la nueva saga de El Planeta de los Simios.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/war_for_the_planet_of_the_apes-586054910-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FKHLIPTBV7</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Spider-man: De Regreso A Casa  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYzcyYzg3ZDctN2Y2Zi00ZDc4LWJlODQtNzRmYTY0YWE1MzIyXkEyXkFqcGdeQXVyNjIzMDA2NjE@._V1_.jpg</fanart>
+<genre>Fantástico | Acción | Comedia | Ciencia ficción | Superhéroes | Cómic | Marvel Comics | Adolescencia | 3-D</genre>
+<info>Peter Parker (Tom Holland) comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía (Marisa Tomei). Bajo la atenta mirada de su mentor Tony Stark (Robert Downey Jr.), Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture (Michael Keaton) y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/spider_man_homecoming-336093112-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rgxa5ran66tu'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Descendientes 2  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzIyMzhlOTMtYzJhNy00Nzc5LWIyM2QtNGQwN2VhY2IyODRlXkEyXkFqcGdeQXVyNzY1OTIwOTg@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<genre>Fantástico | Secuela | Telefilm</genre>
+<info>Descendants 2 (TV)</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/descendants_2_tv-588953058-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FK95E8YMWT&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Qué Le Pasó A Lunes  </title>
+<fanart></fanart>
+<genre>Ciencia ficción | Thriller | Distopía | Secuestros / Desapariciones</genre>
+<info>En un futuro distópico en el que la sobrepoblación y la hambruna han obligado al gobierno a implantar una política de un único hijo, siete hermanas, cada una con el nombre de un día de la semana, luchan por sobrevivir y pasar inadvertidas haciéndose pasar por una sola persona cuando salen a la calle: Karen Settman. Pero un día una de ella, Lunes, desaparece sin dejar rastro. Las otras hermanas intentarán encontrarla... </info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/what_happened_to_monday-107122698-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FIPMH5B9QI&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mujer Maravilla  </title>
+<fanart>https://image.tmdb.org/t/p/original/pfIVaXgkWMLDRXsHWFrPPbmVm9a.jpg</fanart>
+<genre>Fantástico | Acción | Bélico | Aventuras | Superhéroes | Cómic | DC Comics I Guerra Mundial</genre>
+<info>Antes de ser Wonder Woman (Gal Gadot) era Diana, princesa de las Amazonas, entrenada para ser una guerrera invencible. Diana fue criada en una isla paradisíaca protegida. Hasta que un día un piloto norteamericano (Chris Pine), que tiene un accidente y acaba en sus costas, le habla de un gran conflicto existente en el mundo [Primera Guerra Mundial]. Diana decide salir de la isla convencida de que puede detener la terrible amenaza. Mientras lucha junto a los hombres en la guerra que acabará con todas las guerras, Diana descubre todos sus poderes y su verdadero destino.</info>
+<date>2017</date>
+<thumbnail>https://image.tmdb.org/t/p/original/yjzHtHSAPDdRQejnTyFbifX2gef.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJR3VD41CA&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Valerian Y La Ciudad De Los Mil Planetas [TS-HQ] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDVjNWJiMjctNmE3Ny00NjdkLWFmOWQtOTE5YjRjMGE3MTFkXkEyXkFqcGdeQXVyNjcwNTE5MTE@._V1_.jpg</fanart>
+<genre>Ciencia ficción | Acción | Romance | Aventura espacial | Cómic</genre>
+<info>En el siglo XXVIII, Valerian (Dane DeHaan) y Laureline (Cara Delevingne) son un equipo de agentes espaciales encargados de mantener el orden en todos los territorios humanos. Bajo la asignación del Ministro de Defensa, se embarcan en una misión hacia la asombrosa ciudad de Alpha, una metrópolis en constante expansión, donde especies de todo el universo han convergido durante siglos para compartir conocimientos, inteligencia y culturas. Pero hay un misterio en el centro de Alpha, una fuerza oscura amenaza la paz en la Ciudad de los Mil Planetas. Valerian y Laureline deben luchar para identificar la amenaza y salvaguardar el futuro, no sólo el Alfa, sino del universo.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/valerian_and_the_city_of_a_thousand_planets-459268698-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/781jsb6adoid'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Rey Arturo: La Leyenda De La Espada  </title>
+<fanart>https://image.tmdb.org/t/p/w1000/rX81lqj7mcMwXmIWtOuJlKkTj84.jpg</fanart>
+<genre>Fantástico | Acción | Edad Media | Capa y espada | Espada y brujería</genre>
+<info>Arturo es un joven intrépido que dirige a su pandilla por los callejones de Londonium. Tras sacar la espada de Excalibur, se verá obligado a tomar algunas duras decisiones. Junto a una misteriosa mujer llamada Guinevere, deberá aprender a manejar la espada, vencer a sus demonios y unir al pueblo para derrotar al tirano Vortigern, quien robó su corona y asesinó a sus padres antes de convertirse en rey.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/king_arthur_legend_of_the_sword-708491642-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/02vul0b43ro9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bokeh   </title>
+<fanart>https://image.tmdb.org/t/p/w1000/ixD3JT1tUGKu1l6MtwI1jKIuer0.jpg</fanart>
+<genre>Ciencia ficción | Drama</genre>
+<info>En una escapada romántica a Islandia, una joven pareja americana se despierta una mañana para descubrir que cada persona en la tierra ha desaparecido. Su lucha por sobrevivir y reconciliar el misterioso acontecimiento los lleva a reconsiderar todo lo que saben de sí mismos y del mundo.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/bokeh-313995273-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0t0mei6mb5jb'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dragonheart 4: Corazón De Fuego   </title>
+<fanart>https://image.tmdb.org/t/p/w1000/7Vpbfq6tHjVI64YZ7H0sIcPzKYs.jpg</fanart>
+<genre>Fantástico | Acción | Fantasía medieval | Dragones</genre>
+<info>Drago, un dragón que comparte su corazón con el rey de Brittania, debe encontrar un heredero al trono cuando el rey fallece. Pero los herederos potenciales, Edric y Meghan, usan su fuerza del dragón y el poder del fuego para competir por el trono. Cuando los vikingos roben el fuego del corazón y desafíen los derechos de los heranos, las rivalidades acabarán abriendo paso a la aventura más épica.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/dragonheart_battle_for_the_heartfire-427159738-large.jpg</thumbnail>
+<urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qZTdMV0pMLTZSYlE</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The Discovery   </title>
+<fanart>https://image.tmdb.org/t/p/w1000/jE0SDVtlCCOFfi2djrDlRQlCDl.jpg</fanart>
+<genre>Ciencia ficción | Romance | Drama romántico</genre>
+<info>En un futuro, tras demostrarse científicamente que hay vida después de la muerte, millones de personas de todo el mundo se suicidan para pasar a la otra vida. Un hombre y una mujer se enamoran mientras tratan de asimilar sus trágicos pasados y la verdadera naturaleza del más allá. 
+</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_discovery-202566591-large.jpg</thumbnail>
+<urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qbmtmekVDTHR4ZVk</urlsolve>
+</item>
