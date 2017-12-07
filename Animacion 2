@@ -1,6 +1,6 @@
 <items>
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Coco [CAM] </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Coco [CAM] </title>
 <fanart>https://pics.filmaffinity.com/Coco-759485712-large.jpg</fanart>
 <genre>Animación | Fantástico | Comedia | Pixar | Familia | Música</genre>
 <info>Miguel es un joven con el sueño de convertirse en leyenda de la música a pesar de la prohibición de su familia. Su pasión le llevará a adentrarse en la &quot;Tierra de los Muertos&quot; para conocer su verdadero legado familiar. </info>
@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Condorito: La Película</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Condorito: La Película</title>
 <fanart>https://applauss.com/wp-content/uploads/2017/03/Condorito-la-pelicula-2017-2.jpg</fanart>
 <genre>Animación | Comedia | Aventuras | 3-D | Extraterrestres | Cómic</genre>
 <info>El pajarraco más querido de Pelotillehue emprenderá, junto a su tenaz sobrino Coné, una peligrosa aventura para rescatar a su desaparecida suegra Doña Tremebunda, abducida misteriosamente por una banda alienígena. Lo que no ha tomado en cuenta es que, mientras intenta reparar el error con la madre de Yayita, ésta será tentada románticamente por el insistente Pepe Cortisona. Adaptación cinematográfica del famoso cómic chileno de Pepo.</info>
@@ -20,7 +20,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]My Little Pony: La Película [CAM] </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]My Little Pony: La Película [CAM] </title>
 <fanart>https://pics.filmaffinity.com/my_little_pony_the_movie-280374488-large.jpg</fanart>
 <genre>Animación | Aventuras | Comedia | Fantástico | Infantil | Amistad | Caballos</genre>
 <info>Cuando una fuerza oscura amenaza a Ponyville y el Mane 6, todos se van en un viaje hasta el final de equestria para salvar a su querida casa, y se encuentran con nuevos amigos y peligrosos desafíos a lo largo del camino.</info>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Batman Vs. Dos Caras  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Batman Vs. Dos Caras  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhmYjVkN2UtMDRiZi00YTAzLTg5MGQtZGQyMGRiODY1MGUxXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_.jpg</fanart>
 <genre>Animación | Acción | Comedia | Superhéroes | Cómic | DC Comics | Secuela</genre>
 <info>En la Penitenciaría de Gotham, en presencia de Batman, Robin y el Fiscal de Distrito Harvey Dent, el Dr. Hugo Strange y su asistente, Dr. Harleen Quinzel, realizan un experimento en cinco presos; Joker, Penguin, Riddler, Egghead y Mr. Freeze en un intento de eliminar su mal con una máquina llamada Evil Extractor. El experimento funciona mal y Harvey se expone a un gas marcándole el lado izquierdo de su cara y que hace que éste se convierta en Dos Caras.</info>
@@ -51,7 +51,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjdcm5wxffac'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Emoji: La Película  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Emoji: La Película  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MTY2NTg1NV5BMl5BanBnXkFtZTgwNjIxNTgyMDI@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
 <genre>Animación | Comedia | Aventuras | Internet / Informática | 3-D</genre>
 <info>Los protagonistas habitan la misteriosa tierra de Textopolis, donde todos los emojis favoritos de la gente cobran vida, mientras esperan ser seleccionados por el usuario del teléfono. Todos los personajes tienen una sola expresión facial a excepción de Gen (TJ Miller), un emoji que nació sin filtro y se llena de múltiples expresiones. Para lograr ser normal, Gen se embarcará en una aventura o “app-ventura”, junto a sus amigos Hi-5 y Jailbreak. Pero pronto, una gran amenaza hará que el destino de estos personajes dependa de los tres amigos, teniendo que salvar su mundo antes que sea borrado por completo. 
@@ -62,7 +62,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjdcm5wxffac'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Enredados Otra Vez  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Enredados Otra Vez  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNGI3NTZhMjMtOGI0My00ZGVlLWFjYzYtZWFjZGYyNTU3YTk5XkEyXkFqcGdeQXVyMjg1MTU1NjI@._V1_.jpg</fanart>
 <genre>Animación | Comedia | Fantástico | Secuela | Mediometraje | Telefilm</genre>
 <info>¡Mientras Rapunzel se prepara para su coronación como Princesa de Corona, una noche inolvidable cambiará su pelo otra vez!</info>
@@ -72,7 +72,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjdcm5wxffac'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Deep, El Pulpo  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Deep, El Pulpo  </title>
 <fanart></fanart>
 <genre>Animación | Infantil | Comedia | Cine familiar</genre>
 <info>En un futuro no muy lejano, los últimos supervivientes del planeta tierra son un grupo excéntrico de criaturas abismales cuyo hogar está en una grieta muy profunda en el océano y protegidos por el mítico Kraken. Una catástrofe hará que el pequeño pulpo Deep, junto a sus amigos Evo y Alice tengan que emprender un peligroso viaje lleno de aventuras salvajes y así poder salvar a todos los habitantes de la grieta.</info>
@@ -93,7 +93,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fsly9z6efrxx'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mi Villano Favorito 3  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Mi Villano Favorito 3  </title>
 <fanart>https://pics.filmaffinity.com/Mi_villano_favorito_3-943382088-large.jpg</fanart>
 <genre>Animación | Comedia | Secuela | 3-D</genre>
 <info>Balthazar Pratt, un antiguo niño estrella obsesionado con el personaje que encarnó en los años ochenta, demuestra ser el peor enemigo al que Gru ha debido enfrentarse hasta la fecha.</info>
@@ -103,7 +103,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fsly9z6efrxx'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Starship Troopers: Traitor Of Mars  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Starship Troopers: Traitor Of Mars  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDg5NzY4ODEtODE3MS00Y2QzLWExMzktNDZkZGQ3MDgyM2Y3XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
 <genre>Animación | Acción | Ciencia ficción | Extraterrestres | Secuela</genre>
 <info>Johnny Rico acaba de ser degradado y enviado a una pequeña estación satélite en Marte mientras la Federación ataca el planeta de los monstruos. Cuando está entrenando a nuevos reclutas en la pequeña estación, los monstruos atacan por sorpresa, pero la flota de la Federación está demasiado lejos para ayudarles. Rico y su tropa tendrán que salvar el planeta y descubrir cómo los monstruos pudieron llegar hasta ahí.</info>
@@ -113,7 +113,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fsly9z6efrxx'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Lego Dc Super Hero Girls: Fuga De Cerebros  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Lego Dc Super Hero Girls: Fuga De Cerebros  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZGEzZTAzMTMtOTdhYy00YTBkLWJlMWUtN2MzNjJlODJlYjNlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
 <genre>Animación | Acción | Infantil | Superhéroes | DC Comics | Cómic | Lego</genre>
 <info>Cuando Supergirl, Wonder Woman, Batgirl, Bumbleblee y Katana de repente se dan cuenta que no pueden recordar ni un momento de su lunes, los jóvenes de LEGO DC Super Hero entran en acción a investigar. Ante la sospecha de un juego sucio, los héroes se unen para seguir las pistas y descubrir quién robó sus recuerdos, ya que un malvado plan podría estar en marcha.</info>
@@ -123,7 +123,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fsly9z6efrxx'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Las Aventuras Del Capitán Calzoncillos  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Las Aventuras Del Capitán Calzoncillos  </title>
 <fanart>https://pics.filmaffinity.com/Las_aventuras_del_Capit_n_Calzoncillos-477809265-large.jpg</fanart>
 <genre>Animación | Comedia | Infantil | Superhéroes | 3-D</genre>
 <info>Dos escolares traviesos hipnotizan al director del colegio para convertirlo en su héroe de cómic: Capitán Calzoncillos. Jorge y  Berto son super buenos amigos y pasan sus días creando cómics y soñando con bromas. Un día, hipnotizan accidentalmente al *dire* de su escuela, el Sr. Krupp, que a partir de entonces se cree que es el Capitán Calzoncillos, un súperhéroe malhumorado cuyo traje consiste en ropa interior y una capa. Por si esto no fuera suficientemente malo, su nuevo maestro es un malvado científico maldito dispuesto a exigir su venganza en la escuela. Jorge, Berto y el Capitán Calzoncillos deberán entonces unirse para frustrar su malvado plan.</info>
@@ -133,7 +133,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fsly9z6efrxx'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Un Jefe En Pañales   </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Un Jefe En Pañales   </title>
 <fanart>https://image.tmdb.org/t/p/original/gkZOUZpM4F6hceQ8xE6TEdrGJgT.jpg</fanart>
 <genre>Animación | Comedia | Infantil | 3-D</genre>
 <info>La llegada de un hermanito trastoca por completo la idílica vida del pequeño Tim, hasta entonces hijo único de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebé, que viste traje y corbata y lleva maletín. Tim comienza a sospechar de él, hasta que descubre que puede hablar.</info>
