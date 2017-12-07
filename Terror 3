@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jeepers Creepers 3</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Jeepers Creepers 3</title>
 <fanart>http://static.hellofriki.com/wp-content/uploads/2017/09/jeepers.jpg</fanart>
 <genre>Terror | Suspense | Monstruos | Slasher</genre>
 <info>Trish Jenner tiene un hijo adolescente llamado Darry, el mismo nombre que su hermano fallecido años atrás a manos del Creeper. Trish tiene una pesadilla en la que su hijo sufre el mismo destino que su hermano… Para evitar que esto ocurra, y gracias a su fuerte poder económico unirá sus fuerzas con Jack Taggart e hijo para acabar con el reinado de terror del Creeper de una vez por todas</info>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Feliz Día De Tu Muerte (2017)</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Feliz Día De Tu Muerte (2017)</title>
 <genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
 <info>Una estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final hasta intentar descubrir la identidad de su asesino</info>
 <date>2017</date>
@@ -30,7 +30,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]It (eso) [HD] </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]It (eso) [HD] </title>
 <fanart>https://pics.filmaffinity.com/It_Eso-108799474-large.jpg</fanart>
 <genre>Terror | Fantástico | Sobrenatural | Años 80 | Monstruos | Payasos | Remake</genre>
 <info>Cuando empiezan a desparecer niños en el pueblo de Derry (Maine), un pandilla de amigos lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos. Adaptación cinematográfica de la conocida novela de Stephen King &quot;It&quot;.</info>
@@ -51,7 +51,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]1922  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]1922  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMWI3OTU3MTAtOTVmYy00ODUzLWE1NDktN2EzNGUyMjE4ZTkyXkEyXkFqcGdeQXVyODUxNTAwNQ@@._V1_.jpg</fanart>
 <genre>Terror | Drama | Crimen | Años 20 | Roedores</genre>
 <info>En el año 1922 un orgulloso ranchero asesina a su mujer con la ayuda de su hijo adolescente. Lo que nunca se habría imaginado es que un grupo de ratas acabaría atacándoles, llegando al punto de convencerse a sí mismo de que está siendo acechado por su esposa muerta.</info>
@@ -61,7 +61,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Annabelle 2: La Creación  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Annabelle 2: La Creación  </title>
 <fanart>https://pics.filmaffinity.com/Annabelle_2_La_creaci_n-198906112-large.jpg</fanart>
 <genre>Terror | Sobrenatural | Muñecos | Precuela</genre>
 <info>Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una enfermera y un grupo de chicas tratando de convertir su casa en un cálido orfanato. Sin embargo, los nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de &quot;Annabelle&quot; (2014).</info>
@@ -71,7 +71,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Amityville: El Despertar  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Amityville: El Despertar  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMzMxODQ0Nl5BMl5BanBnXkFtZTgwMzA4ODI3MzI@._V1_SY1000_CR0,0,1503,1000_AL_.jpg</fanart>
 <genre>Terror | Thriller | Sobrenatural | Casas encantadas</genre>
 <info>Belle y su familia se mudan a una nueva casa, con el fin de ahorrar dinero para ayudar a pagar el costoso tratamiento de su hermano gemelo que se encuentra en coma. Pero cuando fenómenos extraños empiezan a ocurrir en la casa, incluyendo la recuperación milagrosa de su hermano y pesadillas cada vez más espeluznantes, Belle comienza a sospechar que su madre no le está contando toda la verdad y pronto se da cuenta de que acaban de mudarse a la terrorífica casa de Amityville.</info>
@@ -81,7 +81,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cult Of Chucky  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Cult Of Chucky  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNWZjNzM4YTAtNzc5Ni00MTFmLTg0NzQtYjAzYmZmYTY5YTY4XkEyXkFqcGdeQXVyMzUwOTU4MjE@._V1_.jpg</fanart>
 <genre>Terror | Muñecos | Secuela</genre>
 <info>Nica vive en el manicomio, convencida de que ella fue quien mató a su familia. Como parte de la terapia, su psiquiatra utilizará un muñeco cuya aparición coincidirá con una horrible cadena de asesinatos en el centro. Andy, protagonista de las primeras entregas, reaparecerá para ayudar a Nica, y Tiffany, la novia de Chucky, también se dejará caer por la que es la séptima entrega de la saga.</info>
@@ -91,7 +91,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Novia  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]La Novia  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BY2UwNWVlNjMtNWViNS00M2MxLTljMjctMTc5YWI1YzU5NGJjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg</fanart>
 <genre>Terror</genre>
 <info>La joven Nastya (Viktoriya Agalakova) acepta ir al pueblo natal de su novio Ivan (Vyacheslav Chepurchenko) para conocer a su familia. Cuando llega al lugar, se da cuenta que los familiares de Ivan son muy extraños y el lugar está lleno de espeluznantes fotografías. Pese a todo, Nastya se tranquiliza y confía en que pronto se va a casar y será feliz junto a su amado. Pero, Ivan desaparece y ella acaba siendo preparada para una misteriosa ceremonia que debe llevarse a cabo antes de la boda.</info>
@@ -101,7 +101,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The Monster Project [CAM] </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]The Monster Project [CAM] </title>
 <fanart></fanart>
 <genre>Terror | Acción | Cine independiente USA</genre>
 <info>Unos directores de cine ponen un anuncio para un casting de monstruos reales, para su documental *The Monster Project*. Encuentran a tres que dicen ser un hombre bestia, un vampiro y un demonio. Los directores piden a estos tres individuos que cuenten sus experiencias. En el equipo trabaja un drogadicto que se está rehabilitando y que cree que sus compañeros subestiman el poder de estos seres. Cuando de repente todo se complica, él tendrá que luchar para sobrevivir.</info>
@@ -111,7 +111,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nunca Digas Su Nombre  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Nunca Digas Su Nombre  </title>
 <fanart>https://image.tmdb.org/t/p/w1000/ixD3JT1tUGKu1l6MtwI1jKIuer0.jpg</fanart>
 <genre>Terror | Thriller | Slasher | Sobrenatural</genre>
 <info>Cuando tres estudiantes universitarios se mudan a una vieja casa fuera del campus, sin querer, liberan a &quot;Bye Bye Man&quot;, un ente sobrenatural que persigue a quien descubre su nombre. Intentarán mantener su existencia en secreto para alejar al resto de una muerte segura.</info>
@@ -121,7 +121,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Aro 3   </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]El Aro 3   </title>
 <fanart>https://imgpv.com/images/2017/02/06/aro3wall.jpg</fanart>
 <genre>Terror | Thriller | Sobrenatural | Fantasmas | Secuela</genre>
 <info>Una joven mujer se preocupa por su novio cuando él decide explorar una oscura subcultura cuyo centro de atención es una misteriosa cinta de video que, aparentemente, mata al observador siete días después de que éste la ha visto. La joven se sacrifica para salvar a su novio y al mismo tiempo hace un terrible descubrimiento: hay una &quot;película dentro de la película&quot; que nadie ha visto antes.</info>
@@ -131,7 +131,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Xx: Pasión Por El Horror  </title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Xx: Pasión Por El Horror  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NzU0NTk5Ml5BMl5BanBnXkFtZTgwMTYxNjY5MDI@._V1_SX1777_CR0,0,1777,743_AL_.jpg</fanart>
 <genre>Terror | Película de episodios</genre>
 <info>Esta antología de cuatro cortometrajes de terror incluye historias de temática tradicional, pero siempre desde un punto de vista femenino.</info>
