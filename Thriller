@@ -1,0 +1,332 @@
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Madre!  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/A_Madre-223003301-large.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/mother-475834081-large.jpg</thumbnail>
+<genre>Thriller | Drama | Terror | Thriller psicológico</genre>
+<info>A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.</info>
+<date>2017</date>
+<urlsolve>http://streamcloud.eu/chhkew1mxa8a</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Kingsman: El Círculo Dorado [HD] </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/Kingsman_El_c_rculo_dorado-962118626-large.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/kingsman_the_golden_circle-211353775-large.jpg</thumbnail>
+<genre>Thriller | Acción | Comedia | Secuela | Espionaje | Cómic</genre>
+<info>Cuando el cuartel general de la agencia secreta es destruido, se descubre una organización de espionaje aliada en EE.UU. llamada Statesman, cuyo origen se remonta a la fecha en que ambas fueron fundadas. En una nueva aventura que pone a prueba la fuerza y el ingenio de sus agentes, ambas organizaciones secretas de élite aúnan sus esfuerzos para intentar derrotar a su enemigo común y salvar al mundo... algo que está convirtiéndose en una especie de hábito para Eggsy.</info>
+<date>2017</date>
+<urlsolve>http://uptobox.com/vnpnnck10d7m</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Asesino: Misión Venganza  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/Asesino_Misi_n_venganza-346691246-large.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/american_assassin-987203719-large.jpg</thumbnail>
+<genre>Thriller | Acción | Venganza | Espionaje</genre>
+<info>Tras la muerte de su prometida en un ataque terrorista, Mitch Rapp es reclutado por los Black Ops y entrena bajo la dirección de Stan Hurley, un agente de la CIA. Rapp y Hurley tendrán que llevar a cabo una misión para detener una operación que podría desatar el caos a nivel internacional.</info>
+<date>2017</date>
+<urlsolve>http://uptobox.com/sbbf3faqx7zh</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]La isla más hermosa</title>
+<fanart>http://www.indiewire.com/wp-content/uploads/2017/03/most-beautiful-island-e1489600176499.jpg?w=780</fanart>
+<genre>Thriller | Drama | Social | Inmigración</genre>
+<info>Una mujer llamada Luciana lucha por sobrevivir en los Estados Unidos como inmigrante indocumentada, al mismo tiempo que intenta escapar un pasado oscuro que la llevará a verse involucrada en un misterioso juego en el que acabará poniendo su vida en peligro
+</info>
+<date>2017</date>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxWGP_wdbR7xevTaZlfpS3WoXKKNxcBiuziAAJNL1PwCC6kL8</thumbnail>
+<urlsolve>https://rapidvideo.com/v/FL7FIHVKEX</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]The Bittersweet</title>
+<fanart>https://ddmix.net/wp-content/uploads/2017/11/The-Bittersweet.jpg</fanart>
+<genre>Thriller | Drama | Crimen | Asiática</genre>
+<info>Mientras un asesino acecha las calles, un joven mensajero sospecha que una doctora podría ser su hermana, a la que no ha visto desde la infancia</info>
+<date>2017</date>
+<thumbnail>https://ddmix.net/wp-content/uploads/2017/11/The-Bittersweet.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FL5KITXVL5&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]The Bittersweet</title>
+<fanart>https://ddmix.net/wp-content/uploads/2017/11/The-Bittersweet.jpg</fanart>
+<genre>Thriller | Drama | Crimen | Asiática</genre>
+<info>Mientras un asesino acecha las calles, un joven mensajero sospecha que una doctora podría ser su hermana, a la que no ha visto desde la infancia</info>
+<date>2017</date>
+<thumbnail>https://ddmix.net/wp-content/uploads/2017/11/The-Bittersweet.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FL5KITXVL5&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Feliz Día De Tu Muerte (2017)</title>
+<genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
+<info>Una estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final hasta intentar descubrir la identidad de su asesino</info>
+<date>2017</date>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/happy_death_day-689393696-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Feliz_d_a_de_tu_muerte-716769998-large.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Geostorm (Geo-Tormenta)</title>
+<genre>Acción | Thriller | Sci-Fi | Catástrofes</genre>
+<info>Cuando el control de los satélites de todo el mundo está en mal funcionamiento, un obstinado ingeniero de comunicaciones se verá obligado a trabajar junto a su hermano, con el que lleva años sin tener contacto, para tratar de salvar el mundo de una tormenta de proporciones épicas. Mientras se trata de lidiar con el problema espacial, en la Tierra, se está tramando una conspiración para acabar con la vida del presidente de los Estados Unidos</info>
+<date>2017</date>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bp7q18ps80hi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Wheelman</title>
+<fanart>https://pics.filmaffinity.com/Wheelman-676955508-large.jpg</fanart>
+<genre>Acción | Thriller | Crimen | Robos & Atracos | Coches | Automovilismo</genre>
+<info>Durante un atraco a un banco, el conductor contratado para fugarse tras el robo deberá hacer uso de su ingenio y destreza cuando recibe órdenes desde un número desconocido</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/wheelman-387448094-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKQC4MNBF4</urlsolve>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Kidnap - Secuestrar</title>
+<fanart>https://pics.filmaffinity.com/Mujer_en_llamas-414176717-large.jpg</fanart>
+<genre>Thriller | Acción | Secuestros / Desapariciones</genre>
+<info>Una madre no se detendrá ante nada para intentar recuperar a su hijo cuando este es secuestrado delante de ella en un parque de atracciones.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/Mujer_en_llamas-966835103-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rywbh11ocnge'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Mariposa Negra</title>
+<fanart>https://s3.amazonaws.com/pelisfox/gallery/original/b03a7c415d0252653e77d25a241ecd74.jpg</fanart>
+<genre>Thriller | Remake | Secuestros / Desapariciones</genre>
+<info>Paul (Antonio Banderas) es un escritor en horas bajas que un día recoge a un vagabundo (Jonathan Rhys Meyers) y le ofrece quedarse con él en su apartada cabaña de madera. Pero el extraño decide tomar a Paul como rehén y lo obliga a escribir todos sus secretos íntimos, enterrados durante años... Remake del thriller francés &quot;Papillon Noir&quot; de Christian Faure.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/black_butterfly-144647381-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKO2EMTUID&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Muerte Misteriosa  </title>
+<fanart>https://pics.filmaffinity.com/Muerte_misteriosa-923362418-large.jpg</fanart>
+<genre>Thriller | Intriga | Policíaco | Crimen | Cine independiente USA</genre>
+<info>Una agente del FBI se alía con un veterano rastreador local para investigar un asesinato ocurrido en una reserva de nativos americanos... Ópera prima del guionista de &quot;Sicario&quot; y &quot;Comanchería&quot;.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/wind_river-870274639-large.jpg</thumbnail>
+<urlsolve>https://rapidvideo.com/v/FKSSLC5JH0</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Atomic Blonde [HD] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjc1NDJiZmEtYTM0NC00MGQ4LWI3NWYtODMxMzc1OTZmMjY5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg</fanart>
+<genre>Acción | Thriller | Espionaje | Guerra Fría | Años 80 | Cómic</genre>
+<info>Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín oriental. Lorraine no se detendrá ante nada para conseguir dar con esa lista, enfrentándose a varios asesinos y sumergiéndose en un mundo en el que nadie parece ser quien dice ser.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/atomic_blonde-338199948-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKU1SAHO3C</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Barry Seal: Solo En América  </title>
+<fanart>https://pics.filmaffinity.com/Barry_Seal_Solo_en_Am_rica-856307251-large.jpg</fanart>
+<genre>Thriller | Acción | Comedia | Biográfico | Años 70 | Años 80 | Crimen | Drogas | Espionaje</genre>
+<info>Basada en la vida real de Barry Seal, un expiloto que se convirtió en un importante narcotraficante en el cartel de Medellín y que acabó siendo reclutado por la CIA y el departamento de inteligencia de la DEA. 
+</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/american_made-694891692-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h9fxio9bpu55'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]La Gran Fuga  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjUwNGVhMmMtZDdjYi00YzY4LThhMWItY2IwMzY4ZjVkZjZkXkEyXkFqcGdeQXVyMjIxOTk4Mzg@._V1_SY1000_CR0,0,1436,1000_AL_.jpg</fanart>
+<genre>Acción | Thriller | Coches / Automovilismo</genre>
+<info>Dos hermanos especializados en el robo de automóviles viajan al sur de Francia para probar nuevos horizontes.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/overdrive-331863894-large.jpg</thumbnail>
+<urlsolve>http://gamovideo.com/hiueozw7qngv</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Persecución Extrema 5  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmFjOGZhOWEtMmQyNC00NGI4LTlhYTYtMjE1YTE2ZDEwYjY3XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_.jpg</fanart>
+<genre>Acción | Thriller | Secuela | Terrorismo</genre>
+<info>The Miz vuelve como Jake Carter, un ex-Marine que sirvió al ejército en el Este Medio y ahora trabaja como paramédico salvando vidas. Después de responder a una llamada de emergencia en un aparcamiento abandonado, Carter tendrá que proteger a un hombre malherido del ataque de una banda de moteros sin escrúpulos. Contra todo pronóstico, Carter tendrá que utilizar sus habilidades como ex-Marine para detener a la banda de moteros antes de que más sangre inocente sea derramada</info>
+<date>2017</date>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmNjZmFjNzktZDJlZC00M2U1LTg5MmYtMmY2YzllMzYyMDk3XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_SY1000_CR0,0,695,1000_AL_.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/embed/FKE37S6G8X</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Amityville: El Despertar  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMzMxODQ0Nl5BMl5BanBnXkFtZTgwMzA4ODI3MzI@._V1_SY1000_CR0,0,1503,1000_AL_.jpg</fanart>
+<genre>Terror | Thriller | Sobrenatural | Casas encantadas</genre>
+<info>Belle y su familia se mudan a una nueva casa, con el fin de ahorrar dinero para ayudar a pagar el costoso tratamiento de su hermano gemelo que se encuentra en coma. Pero cuando fenómenos extraños empiezan a ocurrir en la casa, incluyendo la recuperación milagrosa de su hermano y pesadillas cada vez más espeluznantes, Belle comienza a sospechar que su madre no le está contando toda la verdad y pronto se da cuenta de que acaban de mudarse a la terrorífica casa de Amityville.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/amityville_the_awakening-841783296-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FKU20MCDCB</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]El Juego De Gerald  </title>
+<fanart>https://pics.filmaffinity.com/El_juego_de_Gerald-806113257-large.jpg</fanart>
+<genre>Thriller | Intriga | Terror | Supervivencia</genre>
+<info>Jessie (Carla Gugino) y Gerald (Bruce Greenwood) son un matrimonio maduro que viaja a una remota cabaña con la esperanza de revitalizar su deteriorada relación en un sitio apartado y tranquilo. Allí Gerald propone a su mujer un juego sexual: esposarla a la cama para incrementar las sensaciones. Pero cuando éste muere de un infarto, Jessie tendrá que luchar por su supervivencia.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/El_juego_de_Gerald-321060947-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FK5KWME3O2</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Premonición  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZThmNTI4NzUtODYwMi00MTkyLTg1YmEtN2VhZWNkNTk1NjhkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SX1777_CR0,0,1777,746_AL_.jpg</fanart>
+<genre>Thriller</genre>
+<info>Un controlador aéreo vive una vida desordenada después de que es casi responsable de una colisión entre dos aviones causada por una misteriosa luz a las 2:22 pm. Este evento lo lleva a conocer una mujer con la que todo parece indicar su vida está entrelazada desde hace mucho tiempo atrás.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/2_22-310020498-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FJWDON4A04</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Death Note  </title>
+<fanart>https://pics.filmaffinity.com/Death_Note-630225378-large.jpg</fanart>
+<genre>Thriller | Intriga | Fantástico | Sobrenatural | Policíaco | Asesinos en serie | Manga</genre>
+<info>Un día, cuando Light termina las clases, encuentra un cuaderno negro tendido en el suelo, llamado «Death Note», un cuaderno sobrenatural que es capaz de matar personas si se escriben los nombres en él y si el portador visualiza mentalmente la cara de quien quiere asesinar. Nueva adaptación de la famosa serie (y manga) "Death Note" esta vez con actores reales.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/Death_Note-478544162-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjzd7xydh8vt'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]El Bar  </title>
+<fanart>https://pics.filmaffinity.com/El_bar-695221906-large.jpg</fanart>
+<genre>Thriller | Intriga</genre>
+<info>9:00 horas. Un grupo de personas absolutamente heterogéneo desayuna en un bar en el centro de Madrid. Uno de ellos tiene prisa; al salir por la puerta recibe un disparo en la cabeza. Nadie se atreve a socorrerle. Están atrapados.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/El_bar-629716188-large.jpg</thumbnail>
+<urlsolve>https://rapidvideo.com/v/FHX7EO5AMP</urlsolve>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Mío O De Nadie  </title>
+<fanart>https://image.tmdb.org/t/p/w1000/hrxNhJR5C4i9PdL5mNGxtAD9IYI.jpg</fanart>
+<genre>Thriller | Celos</genre>
+<info>Una mujer (Katherine Heigl) comienza a hacer la vida imposible a la nueva esposa (Rosario Dawson) de su ex marido.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/unforgettable-798026776-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lc1qdqsubl0r'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Ya No Me Siento A Gusto En Este Mundo   </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NjIyNzY2OV5BMl5BanBnXkFtZTgwMjY4NDE5MDI@._V1_SY1000_CR0,0,1571,1000_AL_.jpg</fanart>
+<genre>Thriller | Comedia | Comedia negra | Cine independiente USA</genre>
+<info>Cuando una mujer deprimida sufre un robo en su casa, encuentra un nuevo sentido a su vida persiguiendo a los ladrones junto a su peculiar vecino.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/i_don_t_feel_at_home_in_this_world_anymore-853360487-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/se0r2afskti1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]El Guardián Invisible  </title>
+<fanart>https://image.tmdb.org/t/p/original/hICJ7cDwMXbwMe7r8eLqh95sNtQ.jpg</fanart>
+<genre>Thriller | Intriga | Crimen | Asesinos en serie</genre>
+<info>En los márgenes del río Baztán, en tierras de Navarra, aparece el cuerpo desnudo de una adolescente en circunstancias que relacionan ese crimen con un asesinato ocurrido un mes atrás. La inspectora Amaia Salazar dirige la investigación, la cual le llevará de vuelta al pueblo de Elizondo, donde ella creció y del que ha tratado de huir toda su vida. Enfrentada con las complicadas derivaciones del caso y sus propios fantasmas, la investigación de Amaia es una carrera contrarreloj para dar con un implacable asesino, en una tierra fértil en supersticiones y brujería.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/el_guardian_invisible-726992780-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mdlqiz1p0ci9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
